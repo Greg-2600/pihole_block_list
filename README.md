@@ -9,3 +9,6 @@ advertisements
 
 phishing and scam sites
 
+
+You should run your own fully recursive DNSd as well!
+https://docs.pi-hole.net/guides/unbound/
