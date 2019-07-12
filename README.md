@@ -1,4 +1,4 @@
-# pihole_block_list_master
+# pihole_block_list
 gregbakerstl's best block list - import into your pihole!
 
 trackers
