@@ -1,13 +1,13 @@
 # pihole_block_list
 gregbakerstl's best block list - import into your pihole!
 
-trackers
+#trackers
 
-command and control servers
+#command and control servers
 
-advertisements
+#advertisements
 
-phishing and scam sites
+#phishing and scam sites
 
 
 You should run your own fully recursive DNSd as well!
