@@ -1,6 +1,11 @@
 # pihole_block_list
 gregbakerstl's best block list - import into your pihole!
 
+Import Link:
+
+https://raw.githubusercontent.com/gregbakerstl/pihole_block_list/master/gregbakerstl_block_list.txt
+
+
 * trackers
 * command and control servers
 * advertisements
